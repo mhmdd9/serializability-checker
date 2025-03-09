@@ -11,7 +11,6 @@
     - [ConflictSerializabilityChecker](#conflictserializabilitychecker)
     - [ViewSerializabilityChecker](#viewserializabilitychecker)
 4. [ورودی و خروجی](#ورودی-و-خروجی)
-5. [مثال‌ها](#مثال‌ها)
 
 ---
 
