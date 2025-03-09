@@ -26,13 +26,8 @@
 ## نحوه اجرای برنامه
 
 1. مطمئن شوید که **JDK (Java Development Kit)** روی سیستم شما نصب است.
-2. فایل‌های `ConflictSerializabilityChecker.java` و `ViewSerializabilityChecker.java` را دانلود کنید.
-3. هر فایل را با دستور زیر کامپایل کنید:
-
-   ```bash
-   javac ConflictSerializabilityChecker.java
-   javac ViewSerializabilityChecker.java
-   ```
+2. فایل‌های مربوطه را دانلود کنید.
+3. فایل ها را با دستور `javac` کامپایل کنید:
 4. برنامه‌ها را با دستور زیر اجرا کنید:
 
    ```bash
