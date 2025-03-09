@@ -12,7 +12,6 @@
     - [ViewSerializabilityChecker](#viewserializabilitychecker)
 4. [ورودی و خروجی](#ورودی-و-خروجی)
 5. [مثال‌ها](#مثال‌ها)
-6. [تماس با من](#تماس-با-من)
 
 ---
 
